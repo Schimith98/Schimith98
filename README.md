@@ -1,6 +1,6 @@
 ### Seja bem vindo / Be welcome 👋
 
-- 🔭 Atualmente trabalhando com front-end (ReactJS). / Currently working on frontend (ReactJS).
+- 🔭 Atualmente trabalhando com front-end (ReactJS). / Currently working on front-end (ReactJS).
 
 <!-- <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schimith98&show_icons=true" />
